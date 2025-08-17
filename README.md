@@ -1,0 +1,2 @@
+# diplomas
+store my diplomas
